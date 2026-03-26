@@ -11,6 +11,7 @@
 #  Use: .account create iabotaccount password
 #  Then note the account ID from auth.account table.
 #
+IABot.Account = 90000
 IABot.Enabled = 1
 IABot.Account = 0
 IABot.MaxBots = 100
